@@ -1,0 +1,116 @@
+{
+  "actions": {
+    "add": "Add employee",
+    "approve": "Approve",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "reject": "Reject",
+    "reset": "Reset demo data"
+  },
+  "app": {
+    "demoBadge": "Demo data",
+    "name": "PeopleHub",
+    "tagline": "HR Dashboard"
+  },
+  "attendance": {
+    "onLeave": "On leave",
+    "present": "Present",
+    "remote": "Remote",
+    "subtitle": "Who is in, remote, or away today.",
+    "title": "Attendance today"
+  },
+  "dept": {
+    "design": "Design",
+    "engineering": "Engineering",
+    "finance": "Finance",
+    "hr": "HR",
+    "marketing": "Marketing",
+    "sales": "Sales"
+  },
+  "directory": {
+    "addTitle": "Add a new employee",
+    "department": "Department",
+    "email": "Email",
+    "empty": "No employees match this search",
+    "emptyHint": "Try a different name, role, or department filter.",
+    "filterAll": "All departments",
+    "name": "Full name",
+    "newBadge": "New",
+    "role": "Role",
+    "searchPlaceholder": "Search by name or role…",
+    "status": "Status",
+    "title": "Employee directory"
+  },
+  "header": {
+    "greeting": "Good morning, Sara",
+    "langToggle": "العربية",
+    "subtitle": "Here is your team at a glance today."
+  },
+  "leave": {
+    "approved": "Approved",
+    "decided": "Decided requests",
+    "empty": "No pending leave requests.",
+    "from": "From",
+    "pending": "Pending leave requests",
+    "rejected": "Rejected",
+    "title": "Leave requests",
+    "to": "to"
+  },
+  "nav": {
+    "directory": "Directory",
+    "leave": "Leave requests",
+    "onboarding": "Onboarding",
+    "overview": "Overview",
+    "settings": "Settings"
+  },
+  "onboarding": {
+    "complete": "All steps done",
+    "progress": "steps done",
+    "steps": {
+      "accounts": "Accounts created",
+      "buddy": "Buddy assigned",
+      "laptop": "Laptop issued",
+      "paperwork": "HR paperwork signed",
+      "plan": "First-week plan shared"
+    },
+    "subtitle": "Track first-week setup for every new hire.",
+    "title": "New-hire onboarding"
+  },
+  "roles": {
+    "apply": "Apply",
+    "openRoles": "Open roles",
+    "subtitle": "Roles currently hiring."
+  },
+  "settings": {
+    "language": "Language",
+    "resetHint": "Restores the original demo employees, leave requests, and onboarding progress.",
+    "title": "Settings"
+  },
+  "stats": {
+    "departments": "Departments",
+    "departmentsHint": "teams across the company",
+    "newHires": "New hires this month",
+    "newHiresHint": "joined in November 2026",
+    "openRoles": "Open roles",
+    "openRolesHint": "positions currently hiring",
+    "totalEmployees": "Total employees",
+    "totalHint": "active across all teams"
+  },
+  "status": {
+    "leave": "On leave",
+    "present": "Present",
+    "remote": "Remote"
+  },
+  "toast": {
+    "added": "Employee added.",
+    "approved": "Leave request approved.",
+    "deleted": "Employee removed.",
+    "rejected": "Leave request rejected.",
+    "reset": "Demo data has been reset."
+  },
+  "type": {
+    "personal": "Personal",
+    "sick": "Sick leave",
+    "vacation": "Vacation"
+  }
+}
